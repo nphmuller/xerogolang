@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/XeroAPI/xerogolang/helpers"
+	"github.com/lkq-carsys/xerogolang/helpers"
 	"github.com/markbates/goth"
 	"golang.org/x/oauth2"
 )

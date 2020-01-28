@@ -3,7 +3,7 @@ package accounting
 import (
 	"encoding/xml"
 
-	"github.com/XeroAPI/xerogolang"
+	"github.com/lkq-carsys/xerogolang"
 	"github.com/markbates/goth"
 )
 
