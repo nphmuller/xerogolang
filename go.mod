@@ -12,4 +12,6 @@ require (
 	golang.org/x/oauth2 v0.0.0-20181017192945-9dcd33a902f4
 )
 
+replace github.com/lkq-carsys/xerogolang => github.com/nphmuller/xerogolang
+
 go 1.13
