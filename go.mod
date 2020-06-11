@@ -1,4 +1,4 @@
-module github.com/XeroAPI/xerogolang
+module github.com/nphmuller/xerogolang
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
